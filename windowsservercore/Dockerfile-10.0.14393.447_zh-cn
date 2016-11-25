@@ -1,0 +1,2 @@
+FROM microsoft/windowsservercore:10.0.14393.447_zh-cn
+MAINTAINER sule.n@live.cn

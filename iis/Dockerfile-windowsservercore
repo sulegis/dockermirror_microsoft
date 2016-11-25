@@ -1,0 +1,2 @@
+FROM microsoft/iis:windowsservercore
+MAINTAINER sule.n@live.cn
